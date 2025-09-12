@@ -8,7 +8,7 @@ function Services() {
   ];
 
   const handleBook = (serviceName) => {
-    const phone = "+919876543210"; // अपना नंबर डालो
+    const phone = "+917268838241"; // अपना नंबर डालो
     const message = `Hi, I want to book ${serviceName}.`;
     const whatsappUrl = `https://wa.me/${phone.replace(/\+/g, "")}?text=${encodeURIComponent(message)}`;
     const callUrl = `tel:${phone}`;
