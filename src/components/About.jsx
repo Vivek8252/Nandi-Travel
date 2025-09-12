@@ -11,7 +11,7 @@ function About() {
           {/* Image */}
           <div className="md:w-1/2 mb-6 md:mb-0">
             <img
-              src="https://lh3.googleusercontent.com/a-/ALV-UjX8ffZBo_vVN-3xPCYTDBdQbh7a8x0D_qaqTX2KXLtiyB2vYuA=w144-h144-p-rp-mo-br100"
+              src="https://lh3.googleusercontent.com/p/AF1QipOKCw5E8dCv_pT8Y3ByTD5Y_8cdC0C5yEpejcUJ=s1360-w1360-h1020-rw"
               alt="Nandi Travels"
               className="rounded-xl object-cover w-full h-full shadow-lg"
             />
