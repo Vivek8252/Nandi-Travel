@@ -4,7 +4,7 @@ function Hero() {
   return (
     <section
       className="h-screen flex items-center justify-center bg-cover bg-center relative"
-      style={{ backgroundImage: "url('public/hero/varanasi-ghat.jpg')" }}
+      style={{ backgroundImage: "url('https://t4.ftcdn.net/jpg/07/14/88/69/360_F_714886951_4R960QGb4ezDBzkSiZhKWW4ujJFEilz9.jpg')" }}
     >
       {/* Gradient Overlay */}
       <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-black/60"></div>
