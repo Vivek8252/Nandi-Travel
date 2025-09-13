@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nandi-travel-r893.vercel.app/sitemap.xml
